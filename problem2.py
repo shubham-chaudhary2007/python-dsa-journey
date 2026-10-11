@@ -9,9 +9,9 @@ percentage=float(input("Enter your percentage:-"))
 
 print("Name:",name + "  Data Type:-",type(name))
 
-print("Age:",age + "  Data Type:-",type(age))
+print("Age:",age ,"  Data Type:-",type(age))
 
-print("percentage:",percentage + "  Data Type:-",type(percentage))
+print("percentage:",percentage ,"  Data Type:-",type(percentage))
 
 
 if percentage >= 35:
