@@ -8,7 +8,7 @@ superhero= input("Enter Superhero name :-")
 
 #checking superhero name start with S/s or not 
 
-if superhero.startswith("s"):
+if superhero.startswith(("S","s")):
     print("Superhero name start with 'S'/'s'")
 else:
     print("Superhero name not start with 'S'/'s'")
