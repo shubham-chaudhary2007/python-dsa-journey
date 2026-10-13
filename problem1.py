@@ -24,4 +24,4 @@ Gst=Total*18/100
 Total_Amount= Total+Gst
 
 
-print("Total Amount to pay", str(Total_Amount) + ".rs"+" ( With 18% GST)")
+print("Total Amount to pay", float(Total_Amount) ,".rs"," ( With 18% GST)")
