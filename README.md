@@ -1,5 +1,5 @@
-# python-practice
-Daily Python practice, coding problems.
+# Python-practice
+> Daily Python practice, coding problems
 
 
 # 🐍 Python Basics: My Learning Journey
